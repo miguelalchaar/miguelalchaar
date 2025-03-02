@@ -46,7 +46,7 @@
 ## 🌎 Onde me encontrar  
 
 <p align="left">
-<a href="www.linkedin.com/in/miguelalchaar/" target="_blank">
+<a href="https://www.linkedin.com/in/miguelalchaar?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/miguelalchaar" target="_blank">
